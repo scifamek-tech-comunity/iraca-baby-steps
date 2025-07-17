@@ -200,7 +200,7 @@
 					y="120"
 					width="293.5"
 					height="60"
-					fill="#fff"
+					fill="#0158ff"
                     rx="5"
                     ry="5"
                     stroke="#0168ff"
@@ -222,18 +222,31 @@
 				
                 <text 
 					x="608.25"
-					y="150" 
+					y="142.5" 
 					font-family="Arial"
 
 					font-size="15" 
 					font-weight="bold"
-					fill="#000"
+					fill="#fff"
 					dominant-baseline="middle"
 					text-anchor="middle"
 				>
 					GetFullPokemonUsecase 
 				</text>
 				
+                <text 
+					x="608.25"
+					y="162" 
+					font-family="Arial"
+
+					font-size="12" 
+					font-weight="undefined"
+					fill="#fff"
+					dominant-baseline="middle"
+					text-anchor="middle"
+				>
+					/ pokemon / get-full-pokemon 
+				</text>
 				
                 <text 
 					x="481"
@@ -305,7 +318,7 @@
 				
                 <text 
 					x="212.75"
-					y="105" 
+					y="97.5" 
 					font-family="Arial"
 
 					font-size="15" 
@@ -317,6 +330,19 @@
 					GetPokemonUsecase 
 				</text>
 				
+                <text 
+					x="212.75"
+					y="117" 
+					font-family="Arial"
+
+					font-size="12" 
+					font-weight="undefined"
+					fill="#000"
+					dominant-baseline="middle"
+					text-anchor="middle"
+				>
+					/ pokemon / get-pokemon 
+				</text>
 				
                 <text 
 					x="85.5"
